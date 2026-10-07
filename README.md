@@ -1,19 +1,16 @@
-## Hi, I'm Tirth 👋
+# Tirth Visani — Portfolio
 
-🎓 Software Student  
-💻 Learning Web Development  
-🚀 Interested in Full Stack Development  
+Personal portfolio website for **Tirth Visani**, an MCA student and web developer.
 
-### 🛠 Skills
-- HTML, CSS, JavaScript
-- PHP, MySQL
-- ASP.NET
+## Highlights
+- Responsive dark portfolio built with HTML, Tailwind CSS and Lucide icons
+- Resume-aligned education, skills and project details
+- Projects include Expense Management System, Crickbox, and TruthLens AI
+- Dedicated browser-friendly resume page
+- GitHub, LinkedIn and email contact links
 
-### 📂 Projects
-- Weather App
-- Expense Manager
-- Portfolio Website
+## Run locally
+Open `index.html` in a browser.
 
-### 📫 Contact
-- Email: visanitirth@gmail.com
-
+## Live site
+GitHub Pages can serve this repository directly from the `main` branch.
