@@ -13,4 +13,5 @@ Personal portfolio website for **Tirth Visani**, an MCA student and web develope
 Open `index.html` in a browser.
 
 ## Live site
+https://tirthvisani.github.io/tirth-visani/
 GitHub Pages can serve this repository directly from the `main` branch.
